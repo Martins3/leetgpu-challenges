@@ -69,3 +69,4 @@ env/
 **/*.pyc
 **/*.pyo
 **/*.pyd
+.ccls-cache
